@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(16, 167, 209);
+}
+
+div.links  {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.data {
+    background-color: #a4cdd8;
+    width: 600px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
